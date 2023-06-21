@@ -1,0 +1,6 @@
+**Tools / Technologies required**
+BeautifulSoup 
+Python
+Microsoft SQL Server Management
+Microsoft Excel
+Power BI
